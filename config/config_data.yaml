@@ -19,6 +19,7 @@ eng_to_cn:
   garden_of_green_2: 藍光庭園2
   garden_of_red_2: 紅光庭園2
   foggy_forest_for_mage: 濃霧森林(需瞬移)
+  101_south_CA: 101南部名人大道
   bird_montain_entry: 鳥山入口
   EAST_ROCK_3: 東部岩石山3
   # monster
@@ -66,5 +67,6 @@ map_mobs_mapping:
   garden_of_green_2: [grupin]
   garden_of_red_2: [red_cellion]
   foggy_forest_for_mage: [the_book_ghost]
+  101_south_CA: [搞怪cd]
   bird_montain_entry: [moon_bunny, black_axe_stump]
   EAST_ROCK_3: [axe_stump, black_axe_stump]
