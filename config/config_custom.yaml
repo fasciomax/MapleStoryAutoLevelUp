@@ -1,0 +1,37 @@
+aoe_skill:
+  cooldown: 0.25
+  range_x: 300
+  range_y: 120
+bot:
+  map: EAST_ROCK_3
+buff_skill:
+  cooldown:
+  - 280
+  - 153
+  keys:
+  - '1'
+  - pgup
+channel_change:
+  mode: 'true'
+directional_attack:
+  cooldown: 0.6
+  range_x: 250
+  range_y: 80
+health_monitor:
+  return_home_if_no_potion: true
+key:
+  add_hp: end
+  add_mp: home
+  aoe_skill: ''
+  directional_attack: shift
+  jump: alt
+  return_home: '4'
+  teleport: a
+nametag:
+  enable: true
+system:
+  fps_limit_main: 30
+  fps_limit_window_capturor: 30
+teleport:
+  cooldown: 3
+  is_use_teleport_to_walk: true
